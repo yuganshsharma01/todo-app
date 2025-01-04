@@ -22,21 +22,4 @@ The **Todo App** is a simple yet powerful task management application designed t
 - **Minimalistic Design**: Clean, user-friendly interface.
 - **Cross-device Compatibility**: The app is responsive and works well on mobile, tablet, and desktop.
 
----
-
-## 🚀 Demo
-
-You can view the live demo of the Todo App here:  
-[Live Demo](#)
-
----
-
-## 📚 Technologies Used
-
-The app is built using the following technologies:
-
-- **Frontend**:
-  - HTML5
-  - CSS3
-  - JavaScript (ES6+)
-  - Reac
+-
